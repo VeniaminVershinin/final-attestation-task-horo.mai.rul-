@@ -1,0 +1,166 @@
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/1_0_1/js/cmpld/common/promisifiedDomEvents.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/7df07d23/js/cmpld/horo/web/head.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+//img.imgsmail.ru/pm/1.0.13/build/inline.js:-78 portal-menu.inline.js: 16.181884765625 ms
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar update full width: 0.0341796875 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar update groups: 98.009033203125 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar reflow: 17.072998046875 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar update full width: 0.012939453125 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar update groups: 40.3017578125 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar reflow: 4.527099609375 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 toolbar draw: 227.078125 ms
+//img.imgsmail.ru/pm/1.0.13/build/external.js:1 portal-menu.external.js: 339.3203125 ms
+relap.js:3 duplicate relap.js found, exit...
+(anonymous) @ relap.js:3
+(anonymous) @ relap.js:3
+(anonymous) @ relap.js:3
+(anonymous) @ relap.js:3
+(anonymous) @ relap.js:1
+(anonymous) @ relap.js:1
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/1_0_1/js/cmpld/common/web/fast-slot.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/77e9f6bd/js/cmpld/horo/web/common_base.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/be1d9b95/js/cmpld/horo/web/common.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://horo.mail.ru/-/c7ec355e/js/cmpld/horo/web/page-prediction-index.js.map: HTTP error: status code 403, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+pal.js:19 Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://tpc.googlesyndication.com') does not match the recipient window's origin ('https://horo.mail.ru').
+(anonymous) @ pal.js:19
+Promise.then (async)
+(anonymous) @ pal.js:19
+wa @ pal.js:6
+next @ pal.js:6
+(anonymous) @ pal.js:6
+ya @ pal.js:6
+za @ pal.js:6
+Sj @ pal.js:19
+Pj.C @ pal.js:19
+generateNonce @ (index):419
+init @ (index):402
+s.onload @ (index):438
+load (async)
+(anonymous) @ (index):436
+(anonymous) @ (index):441
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+common.js:2 CONTAINER_IS_HIDDEN Container with id "yandex_ad_R-147024-146_201747188" is hidden
+createjs.min.js:18 The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
+c._createAudioContext @ createjs.min.js:18
+c._generateCapabilities @ createjs.min.js:18
+c.isSupported @ createjs.min.js:18
+c._registerPlugin @ createjs.min.js:17
+c.registerPlugins @ createjs.min.js:17
+c.initializeDefaultPlugins @ createjs.min.js:17
+c.createInstance @ createjs.min.js:18
+c.play @ createjs.min.js:18
+playSound @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1289
+frame_0 @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:922
+d._runActionsRange @ createjs.min.js:19
+b._runActions @ createjs.min.js:19
+b._runActionsRange @ createjs.min.js:19
+b._runActions @ createjs.min.js:19
+b.setPosition @ createjs.min.js:19
+c._updateTimeline @ createjs.min.js:14
+c.advance @ createjs.min.js:14
+c._tick @ createjs.min.js:14
+b._tick @ createjs.min.js:13
+c._tick @ createjs.min.js:14
+b._tick @ createjs.min.js:13
+b.tick @ createjs.min.js:13
+b.update @ createjs.min.js:13
+b.handleEvent @ createjs.min.js:13
+b._dispatchEvent @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b.dispatchEvent @ createjs.min.js:12
+a._tick @ createjs.min.js:12
+a._handleTimeout @ createjs.min.js:12
+setTimeout (async)
+a._setupTick @ createjs.min.js:12
+a._setInterval @ createjs.min.js:12
+a.init @ createjs.min.js:12
+a.addEventListener @ createjs.min.js:12
+a._register @ createjs.min.js:19
+b._setPaused @ createjs.min.js:19
+b._init @ createjs.min.js:19
+a @ createjs.min.js:19
+a.get @ createjs.min.js:19
+lib.id1642_DC_300x300_04_MKT29932 @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1092
+handleComplete @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1276
+(anonymous) @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1259
+b._dispatchEvent @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b.dispatchEvent @ createjs.min.js:12
+b._sendComplete @ createjs.min.js:16
+b._loadNext @ createjs.min.js:17
+b._processFinishedLoad @ createjs.min.js:17
+b._handleFileComplete @ createjs.min.js:17
+(anonymous) @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b.dispatchEvent @ createjs.min.js:12
+b._sendComplete @ createjs.min.js:16
+b._resultFormatSuccess @ createjs.min.js:16
+(anonymous) @ createjs.min.js:15
+b._formatImage @ createjs.min.js:17
+b.handleEvent @ createjs.min.js:16
+(anonymous) @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b._dispatchEvent @ createjs.min.js:12
+b.dispatchEvent @ createjs.min.js:12
+b._handleTagComplete @ createjs.min.js:16
+(anonymous) @ createjs.min.js:15
+load (async)
+b.load @ createjs.min.js:16
+b.load @ createjs.min.js:16
+b.load @ createjs.min.js:17
+b._loadItem @ createjs.min.js:17
+b._loadNext @ createjs.min.js:17
+b.setPaused @ createjs.min.js:17
+b.loadManifest @ createjs.min.js:17
+init @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1261
+onload @ 316F484A11.html?data=AACv8gGNUvw-FsB2B8PCg_0L3tBYr1rm1ceSJucUexyow-Obr5_tJVa0678j80ck2jg7LLXFOHcxYfE4HtsOtWcXQYemzLJl3oghIAj-sMkbOhf75TljOesXGc0cyiTGGzIZm_XXCbd3sJnjRtHlJPz9gTFalKT1j63Gh9k9i4uocnYmvcQzNHBrAAAADtL_Eejy7AdgwAiWp9OVZQtF8kpgmZyw31qROpEcMlQmw_74v3v9aPlEevC8h2mx2kGG7xnGK7cWnUZhKzcJoONJhwsV9kKjZ6VpnZ334x8UU2ig0owG26qdQMj6CZXCB8Q_wunZhmTBAEDmMY3OvQ&link1=359653546:1293
+Show 33 more frames
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
